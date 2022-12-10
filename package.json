@@ -4,10 +4,10 @@
   "description": "e-commerce website for dabster",
   "main": "app.js",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "connect-flash": "^0.1.1",
     "ejs": "^2.6.2",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-fileupload": "^1.1.1-alpha.1",
     "express-handlebars": "^3.0.0",
     "express-session": "^1.15.6",
